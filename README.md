@@ -1,3 +1,5 @@
+Hi there! 👋 I'm Priscillia Chidi, a Data Analyst 📊 
+
 Welcome to my GitHub profile! I'm passionate about leveraging data to drive actionable insights and solve complex problems. 
 
 Here you'll find a collection of projects showcasing my skills in data analysis, visualization, and storytelling.
