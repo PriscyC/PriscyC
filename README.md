@@ -1,12 +1,17 @@
 Hi there! 👋 I'm Priscillia Chidi, a Data Analyst 📊 
 
-Welcome to my GitHub profile! I'm passionate about leveraging data to drive actionable insights and solve complex problems. 
+Welcome to my GitHub profile! I am a detail-oriented and data-driven professional, skilled in transforming data into actionable insights. 
 
 Here you'll find a collection of projects showcasing my skills in data analysis, visualization, and storytelling.
 
 About Me
-- 🌟 Data Analyst with expertise in Microsoft Excel, SQL, and Power BI 
-- 🌱 I’m currently learning Python 
+- 🌱 Proficient in data cleaning, manipulation, visualization and  Skilled in the use of tools such as Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK),SQL, 
+      Power BI and Excel
+- 🌱 Adept at creating compelling and comprehensive reports and dashboards to clearly communicate insights
+- 🌱 Skilled in training predictive models using Machine Learning Algorithms  
+- 🌱 Algorithms With strong analytical and problem-solving skills
+- 🌱 Committed to data accuracy and integrity
+
 - 💞️ I’m looking to collaborate with anyone who shares a passion for leveraging data to drive 
        insights, make informed decisions, and create positive impact 
 - 💼 Currently seeking new opportunities to contribute to data-driven decision-making and
@@ -19,9 +24,9 @@ About Me
 - Data Visualization 
 - Data Interpretation Skills 
 - SQL Proficiency
--	Microsoft Excel
-- Power BI 
--	Python (Programming Language)
+- Microsoft Excel
+- Power BI
+- Python (Programming Language)
   
 📫 How to reach me 
 -	Email: Priscilliachidi@gmail.com
