@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Priscillia Chidi,A Data Analyst📊|Data-Driven Problem Solver|An Account Executive 
+# Hi! 👋 I'm Priscillia Chidi,A Data Analyst📊|Data-Driven Problem Solver|Sales Operation|An Account Executive 
 
 Welcome to my GitHub profile! I am a detail-oriented and data-driven professional, skilled in transforming data into actionable insights. 
 
